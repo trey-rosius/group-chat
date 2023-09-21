@@ -13,8 +13,8 @@
   },
   "main": "api/index.ts",
   "ampt": {
-    "org": "",
-    "app": "react-vite"
+    "app": "group-chat",
+    "org": "treyrosius741464"
   },
   "files": [
     "!src/**/*"
